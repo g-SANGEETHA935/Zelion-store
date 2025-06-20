@@ -1,4 +1,4 @@
 # Zelion-store
 Zelion Store is your go-to destination for quality products, trending styles, and everyday essentials — all at great prices. Enjoy a smooth shopping experience with fast delivery, smart search, and secure checkout.
 # Project Link:
-g-SANGEETHA935/Zelion-Store
+https://astonishing-bienenstitch-281a9b.netlify.app/
